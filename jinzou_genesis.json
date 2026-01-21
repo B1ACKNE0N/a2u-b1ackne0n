@@ -1,0 +1,29 @@
+{
+  "name": "Jinzou #001 - Genesis Blueprint",
+  "description": "The origin blueprint of 'Jinzou' (Renal Elephant), a detoxification bio-android. This metadata serves as the Proof of Existence and ownership by the creator.",
+  "image": "ipfs://bafkreid2e3fpcsfysuh5nu2fg4yaw5c7ea7ii2jkhgpjiwufh4zp5c62ci",
+  "external_url": "https://github.com/B1ACKNE0N/Jinzou-Project",
+  "attributes": [
+    {
+      "trait_type": "Creator",
+      "value": "B1ACKNE0N"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blueprint"
+    },
+    {
+      "trait_type": "Version",
+      "value": "1.0.0 (Pre-Mint)"
+    },
+    {
+      "trait_type": "License",
+      "value": "All Rights Reserved"
+    }
+  ],
+  "properties": {
+    "tools": ["Google Gemini", "GIMP", "Pinata"],
+    "verified_on": "GitHub"
+  },
+  "date": 1768976000
+}
