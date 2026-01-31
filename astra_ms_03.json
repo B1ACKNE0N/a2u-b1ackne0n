@@ -1,0 +1,37 @@
+{
+  "name": "astra-ms-03 - High QED Molecule Discovery",
+  "description": "Proof of existence for a novel molecule discovery with QED Score 89.65%. QED (Quantitative Estimate of Drug-likeness) measures drug-likeness, where 0.67+ is considered ideal. This molecule achieved an exceptionally high score. The chemical formula is hashed for patent protection. ASCII animation NFT serves as the visual representation.",
+  "image": "ipfs://bafybeidvfcfxsdakn2jrbzu5b7jz6bfqv5lvxxoylmc5xj7kgntatsoeze",
+  "external_url": "https://github.com/B1ACKNE0N/a2u-b1ackne0n",
+  "attributes": [
+    {
+      "trait_type": "Creator",
+      "value": "B1ACKNE0N"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Molecule Discovery"
+    },
+    {
+      "trait_type": "QED Score",
+      "value": "89.65%"
+    },
+    {
+      "trait_type": "Version",
+      "value": "1.0.0 (Pre-Mint)"
+    },
+    {
+      "trait_type": "License",
+      "value": "All Rights Reserved"
+    },
+    {
+      "trait_type": "Contract (Sepolia)",
+      "value": "0x3F95b1342157D2A86D22D664Ca6183723d6E6433"
+    }
+  ],
+  "properties": {
+    "tools": ["Foundry", "Solidity", "Pinata"],
+    "verified_on": ["GitHub", "Sepolia Etherscan"]
+  },
+  "date": 1738281600
+}
